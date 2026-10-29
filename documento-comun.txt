@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Texto documento comun para compai1
+=======
+Texto documento comun para compai3
+Texto 2 para compai3 
+Texto 3 para mergear en compai3
+>>>>>>> compai3
